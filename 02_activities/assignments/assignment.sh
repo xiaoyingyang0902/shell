@@ -54,5 +54,6 @@ ls ./data/processed >> ./data/inventory.txt
 
 
 ###########################################
+#dummy comment here
 
 echo "Project setup is complete!"
